@@ -1,0 +1,30 @@
+# JetBrains IDEs (IntelliJ IDEA, PhpStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Vi/Vim
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# Docker
+.env.local
